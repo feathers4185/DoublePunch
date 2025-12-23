@@ -1,0 +1,1 @@
+tellraw @a "Load is Gode!"
